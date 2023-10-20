@@ -1,0 +1,37 @@
+:root {
+     --fantastic-color: red;
+     --the-best-color: rgba(43, 255, 0, 0.959);
+     --amazing-color: rgb(7, 22, 160);
+     --mens-color: rgb(4, 255, 255);
+     --wemen-color: rgb(158, 2, 206);
+     --babies-color: rgb(228, 18, 116);
+     --ivans-color: rgb(28, 130, 10);
+     
+}
+
+body {
+     background-color: var(--the-best-color);
+}
+
+
+
+p {
+     color: var(--wemen-color);
+}
+
+ul li {
+     color: var(--ivans-color);
+}
+
+img {}
+
+h2 {
+    
+}
+div {
+    
+}
+
+span {
+    
+}
