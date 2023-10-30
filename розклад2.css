@@ -1,0 +1,55 @@
+table {
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+
+/* td:hover {
+    background-color: blueviolet;
+} */
+
+.q:hover {
+    /* background-color: rgb(186, 204, 20); */
+    font-size: 24px;
+    /* color: rgb(230, 28, 179); */
+}
+
+.w:hover {
+    /* background-color: rgb(48, 59, 212); */
+    font-size: 24px;
+    /* color: chocolate; */
+}
+
+.e:hover {
+    /* background-color: rgb(189, 127, 34); */
+    font-size: 24px;
+    /* color: crimson; */
+}
+
+.r:hover {
+    /* background-color: rgb(207, 47, 95); */
+    font-size: 24px;
+    /* color: darkslateblue; */
+}
+
+.t:hover {
+    /* background-color: rgb(230, 28, 179); */
+    /* color: rgb(72, 196, 23); */
+    font-size: 24px;
+}
+
+a {
+    /* border-radius: 20px; */
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+a:hover{
+    font-size: 28px;
+    background-color: rgb(158, 158, 158);
+    text-shadow: 3px 2px 4px;
+    border-radius: 5px;
+    
+}
+
+
